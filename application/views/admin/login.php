@@ -54,11 +54,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <label class="custom-control-label" for="customCheck">Remember Me</label>
                       </div>
                     </div>
-                    <a href="index.html" class="btn btn-primary btn-user btn-block">
-                      Login
-                    </a>
-                    <hr>
-                    
+                    <button class="btn btn-primary btn-user btn-block" > LOGIN
+                    </button>
+                   
+                   
                     
                   </form>
                   
