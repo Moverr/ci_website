@@ -5,7 +5,7 @@ class Aboutus extends CI_Controller {
  
 	public function index()
 	{
-		$this->load->view('public/home');
+		$this->load->view('public/aboutus');
     }
     
     
