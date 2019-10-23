@@ -79,14 +79,11 @@
         <div class="logo_menu"><a href="#" class='top_logo'></a></div>
         <div class='top_menu'>
             <ul>
-                                    <li class='active'><a href="./">Home</a></li>
-                                    <li  ><a href="./aboutus.php">About Us</a></li>
 
-                                    <li class=''><a href="#">What we do </a></li>
-                                    <li class=''><a href="#">Contact US </a></li>
-                                  
-
-                                    
+            <li><a href="home">Home</a>
+                <li><a href="home/aboutus">About Us</a>
+                <li class="home/whatwedo"><a href="#">What we do </a>
+                <li class="home/contactus"><a href="#">Contact Us</a> 
                             
                             </ul>
         </div>
@@ -368,10 +365,10 @@ Interested parties must get in touch with the company through our phone numbers 
     <div class="content">
         <nav class='bottom_menu'>
             <ul>
-                <li><a href="./">Home</a>
-                <li><a href="./aboutus.php">About Us</a>
-                <li class="menu-mobile"><a href="#">What we do </a>
-                <li class="menu-mobile"><a href="#">Contact Us</a>
+                <li><a href="home">Home</a>
+                <li><a href="home/aboutus">About Us</a>
+                <li class="home/whatwedo"><a href="#">What we do </a>
+                <li class="home/contactus"><a href="#">Contact Us</a>
                  
             </ul>
         </nav>
