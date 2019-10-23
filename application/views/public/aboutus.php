@@ -63,7 +63,14 @@
     <div class="page_container">
                     <header class="">
     <div class="menu_content">
-        <div class="logo_menu"><a href="#" class='top_logo'></a></div>
+        <div class="logo_menu">
+        <a href="#" class='top_logo'><img src="imgs/logo.png" style=" float: left;" />
+        
+        <h1 style=" font-size: 14px; margin-left: 76px; /* float: left; */  margin-top: 20px;">EXECUTIVE INTERNATIONAL  TRADING
+        </h1>
+
+        </a>
+        </div>
         <div class='top_menu'>
             <ul>
                                     <li class='home'><a href="home">Home</a></li> 
