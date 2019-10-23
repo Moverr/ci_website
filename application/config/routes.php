@@ -53,6 +53,9 @@ $route['login'] = 'login/loginform';
 
 
 $route['default_controller'] = 'home';
+$route['aboutus'] = 'aboutus';
+
+
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
