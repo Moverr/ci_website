@@ -66,11 +66,15 @@
         <div class="logo_menu"><a href="#" class='top_logo'></a></div>
         <div class='top_menu'>
             <ul>
-                                    <li class=''><a href="./">Home</a></li>
-                                    <li class='active'><a href="#">About us</a></li>
-                                    <li class=''><a href="#">What we do </a></li>
-                                    <li class=''><a href="#">Contact US </a></li>
-                                    
+
+            <li><a href="home">Home</a>
+                <li class="aboutus"><a href="aboutus">About Us</a>
+                <li class="whatwedo"><a href="whatwedo">What we do </a>
+                <li class="active"><a href="contactus">Contact Us</a>
+
+                
+
+                 
                                     
                                     
                           
@@ -174,10 +178,13 @@
     <div class="content">
         <nav class='bottom_menu'>
             <ul>
-            <li><a href="./">Home</a>
-                <li><a href="./aboutus.php">About Us</a>
-                <li class="menu-mobile"><a href="#">What we do </a>
-                <li class="menu-mobile"><a href="#">Contact Us</a>
+            <li><a href="home">Home</a>
+                <li class="aboutus"><a href="aboutus">About Us</a>
+                <li class="whatwedo"><a href="whatwedo">What we do </a>
+                <li class="active"><a href="contactus">Contact Us</a>
+
+                
+
             </ul>
         </nav>
                 <div class='copyright center'>&copy;  2019</div>

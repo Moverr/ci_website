@@ -134,8 +134,13 @@
                         <h2 class="side-title">Media Room</h2>
                         <hr class="side-hr">
                         <ul class="side-list">
-                        <li class=""><a href="./">Home</a></li>
-                         <li class="active"><a href="./aboutus.php">About Us</a></li>
+                         
+                         <li><a href="home">Home</a>
+                <li class="active"><a href="aboutus">About Us</a>
+                <li class="whatwedo"><a href="whatwedo">What we do </a>
+                <li class="contactus"><a href="contactus">Contact Us</a>
+
+                
                          
                                                                             </ul>
                     </div>
@@ -174,10 +179,14 @@
     <div class="content">
         <nav class='bottom_menu'>
             <ul>
-            <li><a href="./">Home</a>
-                <li><a href="./aboutus.php">About Us</a>
-                <li class="menu-mobile"><a href="#">What we do </a>
-                <li class="menu-mobile"><a href="#">Contact Us</a>
+
+            <li><a href="home">Home</a>
+                <li class="active"><a href="aboutus">About Us</a>
+                <li class="whatwedo"><a href="whatwedo">What we do </a>
+                <li class="contactus"><a href="contactus">Contact Us</a>
+
+
+            
             </ul>
         </nav>
                 <div class='copyright center'>&copy;  2019</div>
