@@ -66,13 +66,12 @@
         <div class="logo_menu"><a href="#" class='top_logo'></a></div>
         <div class='top_menu'>
             <ul>
-                                    <li class=''><a href="./">Home</a></li>
-                                    <li class='active'><a href="#">About us</a></li>
-                                    <li class=''><a href="#">What we do </a></li>
-                                    <li class=''><a href="#">Contact US </a></li>
+                                    <li class='home'><a href="home">Home</a></li> 
+                                    <li class="active"><a href="aboutus">About Us</a>
+                <li class="whatwedo"><a href="whatwedo">What we do </a>
+                <li class="contactus"><a href="contactus">Contact Us</a>
                                     
-                                    
-                                    
+                                     
                           
                             </ul>
         </div>
