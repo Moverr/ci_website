@@ -66,11 +66,10 @@
         <div class="logo_menu"><a href="#" class='top_logo'></a></div>
         <div class='top_menu'>
             <ul>
-                                    <li class=''><a href="./">Home</a></li>
-                                    <li class='active'><a href="#">About us</a></li>
-                                    <li class=''><a href="#">What we do </a></li>
-                                    <li class=''><a href="#">Contact US </a></li>
-                                    
+            <li><a href="home">Home</a>
+                <li class="aboutus"><a href="aboutus">About Us</a>
+                <li class="active"><a href="whatwedo">What we do </a>
+                <li class="contactus"><a href="contactus">Contact Us</a>
                                     
                                     
                           
@@ -122,7 +121,7 @@
         
         <div class="content">
                         <h1 class="banner-title  ">
-                ABOUT US
+               WHAT WE DO 
             </h1>
                                 </div>
 
@@ -134,15 +133,19 @@
                         <h2 class="side-title">Media Room</h2>
                         <hr class="side-hr">
                         <ul class="side-list">
-                        <li class=""><a href="./">Home</a></li>
-                         <li class="active"><a href="./aboutus.php">About Us</a></li>
+                        <li><a href="home">Home</a>
+                <li class="aboutus"><a href="aboutus">About Us</a>
+                <li class="active"><a href="whatwedo">What we do </a>
+                <li class="contactus"><a href="contactus">Contact Us</a>
+                                    
+                     
                          
                                                                             </ul>
                     </div>
                 </div>
                 
                 <div class='page ' style="text-align:">
-                <h1>About Us</h1>
+                <h1>WHAT WE DO </h1>
 
                 <p style="text-align:justify;">
                 Executive International Trading LLC, is a commodities trading company based in Dubai - UAE. Executive International Trading benefits from its owners experience of more than 30 years, operating in diverse regions such as: Africa, Asia, Europe, Latin America and Middle East. 
