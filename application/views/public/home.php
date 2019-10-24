@@ -204,37 +204,7 @@ Interested parties must get in touch with the company through our phone numbers 
         </div>
 
         <!--  END FROZEN PRODUCTS  -->
-        <!-- COBALT -->
-
-
-        <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">COBALT<br/> PRODUCT</h3>
-                    <h3 class="hpa-title hover">COBALT IS A MINERAL <span>PRODUCT</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle"> <span></span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
-
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Cobalt is a mineral product</h4>
-
-                    <p style="max-width:700px !important; text-align:justify; font-weight:400; font-size:14px; " >dealers suppliers stockiest exporters manufacturers importers  authorize dealers for all type of copper products . type M copper pipes , type K copper pipes, Type L copper pipes, copper welding rods copper pipes fitting, special copper alloy, grade A mix copeer, copper alloy flat products, copper bearings, imported beryllium copper alloy, copper bricks, copper bushes, indian copper pipes imported copper pipes, copper bolts and nuts copper casting copper parts, copper bolted lugs,copper rings, copper casted products   dealers veer enterprise vardhman bearings vardhman engineers arihant engineers ranjanaarts india. 
-   </p> 
-      
- 
- 
-<p ><a class="button white" href="#">More information</a></p>
-
-                </div>
-            </div>
-        </div>
+        
 
 <!-- End CObalt --> 
 
@@ -274,39 +244,10 @@ Interested parties must get in touch with the company through our phone numbers 
 <!-- End Diamond --> 
 
 
-        <!-- ZINC -->
-
-
-        <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">ZINC<br/> PRODUCT</h3>
-                    <h3 class="hpa-title hover">ZINC IS A MINERAL <span>PRODUCT</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle"> <span></span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
-
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Zinc is a mineral product</h4>
-
-                    <p style="max-width:700px !important; text-align:justify; font-weight:400; font-size:14px; " >dealers suppliers stockiest exporters manufacturers importers  authorize dealers for all type of copper products . type M copper pipes , type K copper pipes, Type L copper pipes, copper welding rods copper pipes fitting, special copper alloy, grade A mix copeer, copper alloy flat products, copper bearings, imported beryllium copper alloy, copper bricks, copper bushes, indian copper pipes imported copper pipes, copper bolts and nuts copper casting copper parts, copper bolted lugs,copper rings, copper casted products   dealers veer enterprise vardhman bearings vardhman engineers arihant engineers ranjanaarts india. 
-   </p> 
-      
  
- 
-<p ><a class="button white" href="#">More information</a></p>
 
-                </div>
-            </div>
-        </div>
 
-<!-- End CObalt --> 
+        
 
 
 
