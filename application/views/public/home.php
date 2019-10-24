@@ -76,7 +76,8 @@
     <div class="page_container">
                     <header class=" home ">
     <div class="menu_content">
-        <div class="logo_menu"><a href="#" class='top_logo'><img src="imgs/logo.png" style=" float: left;" />
+        <div class="logo_menu">
+        <a href="#" class='top_logo'><img src="imgs/logo.png" style=" float: left;" />
         
         <h1 style=" font-size: 14px; margin-left: 76px; /* float: left; */  margin-top: 20px;">EXECUTIVE INTERNATIONAL  TRADING
         </h1>
@@ -172,12 +173,12 @@ Interested parties must get in touch with the company through our phone numbers 
  <!-- COPPER -->
             <div class='hparea'>
             <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
+                <div class="overlay background" style="background-image:url('./imgs/frozenchicken.jpg')"></div>
                 <div class="overlay one"></div>
                 <div class="hpa-image-content">
-                    <h3 class="hpa-title">COPPER<br/> PRODUCT</h3>
-                    <h3 class="hpa-title hover">COPPER IS A MINERAL <span>PRODUCT</span></h3>
-                    <hr class="hpa-hr">
+                    <h3 class="hpa-title">FROZEN<br/> PRODUCTS</h3>
+                    <h3 class="hpa-title hover">Frozen Products : Chicken, Beef <hr class="hpa-hr"> </h3>
+                    
                     <h4 class="hpa-subtitle"> <span></span></h4>
                     <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
                 </div>
@@ -186,9 +187,12 @@ Interested parties must get in touch with the company through our phone numbers 
             <div class='hpa-content'>
                 <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
                 <div class="hpa-text-content">
-                    <h4 class="misto-title">Copper is a mineral product</h4>
+                    <h4 class="misto-title">Frozen Products</h4>
 
-                    <p style="max-width:700px !important; text-align:justify; font-weight:400; font-size:14px; " >dealers suppliers stockiest exporters manufacturers importers  authorize dealers for all type of copper products . type M copper pipes , type K copper pipes, Type L copper pipes, copper welding rods copper pipes fitting, special copper alloy, grade A mix copeer, copper alloy flat products, copper bearings, imported beryllium copper alloy, copper bricks, copper bushes, indian copper pipes imported copper pipes, copper bolts and nuts copper casting copper parts, copper bolted lugs,copper rings, copper casted products   dealers veer enterprise vardhman bearings vardhman engineers arihant engineers ranjanaarts india. 
+                    <p style="max-width:700px !important; text-align:justify; font-weight:400; font-size:14px; " >
+                    We offer a full range of frozen products, starting with chicken , beef. Also we can offer different cuts and slices of the product.  Our portfolio also contains all offals and sow meat.
+ 
+                     
    </p> 
       
  
@@ -243,7 +247,7 @@ Interested parties must get in touch with the company through our phone numbers 
                 <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
                 <div class="overlay one"></div>
                 <div class="hpa-image-content">
-                    <h3 class="hpa-title">DIAMOND<br/> PRODUCT</h3>
+                    <h3 class="hpa-title">FROZEN <br/> PRODUCTS</h3>
                     <h3 class="hpa-title hover">DIAMOND IS A MINERAL <span>PRODUCT</span></h3>
                     <hr class="hpa-hr">
                     <h4 class="hpa-subtitle"> <span></span></h4>
