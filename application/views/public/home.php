@@ -217,8 +217,8 @@ Interested parties must get in touch with the company through our phone numbers 
                 <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
                 <div class="overlay one"></div>
                 <div class="hpa-image-content">
-                    <h3 class="hpa-title">FROZEN <br/> PRODUCTS</h3>
-                    <h3 class="hpa-title hover">DIAMOND IS A MINERAL <span>PRODUCT</span></h3>
+                    <h3 class="hpa-title">COPPER, COBALT DIAMONDS AND GOLD <br/> PRODUCTS</h3>
+                    <h3 class="hpa-title hover">COPPER, COBALT DIAMONDS AND GOLD<span>PRODUCT</span></h3>
                     <hr class="hpa-hr">
                     <h4 class="hpa-subtitle"> <span></span></h4>
                     <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
@@ -228,7 +228,7 @@ Interested parties must get in touch with the company through our phone numbers 
             <div class='hpa-content'>
                 <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
                 <div class="hpa-text-content">
-                    <h4 class="misto-title">Diamond is a mineral product</h4>
+                    <h4 class="misto-title">COPPER, COBALT DIAMONDS AND GOLD products</h4>
 
                     <p style="max-width:700px !important; text-align:justify; font-weight:400; font-size:14px; " >dealers suppliers stockiest exporters manufacturers importers  authorize dealers for all type of copper products . type M copper pipes , type K copper pipes, Type L copper pipes, copper welding rods copper pipes fitting, special copper alloy, grade A mix copeer, copper alloy flat products, copper bearings, imported beryllium copper alloy, copper bricks, copper bushes, indian copper pipes imported copper pipes, copper bolts and nuts copper casting copper parts, copper bolted lugs,copper rings, copper casted products   dealers veer enterprise vardhman bearings vardhman engineers arihant engineers ranjanaarts india. 
    </p> 
@@ -256,10 +256,10 @@ Interested parties must get in touch with the company through our phone numbers 
                 <div class="overlay background" style="background-image:url('./imgs//homepage-area-trans.jpg')"></div>
                 <div class="overlay one"></div>
                 <div class="hpa-image-content">
-                    <h3 class="hpa-title">Transportation <br><span>and Logistics</span></h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
+                    <h3 class="hpa-title">Other Areas  <br><span></span></h3>
+                    <h3 class="hpa-title hover">Sugar, Rice,Edible Oil, Corn, Pasta, Etc.  <span></span></h3>
                     <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Take us <span>further.</span></h4>
+                   
                     <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
                 </div>
             </div>
