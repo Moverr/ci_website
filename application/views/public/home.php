@@ -197,7 +197,7 @@ Interested parties must get in touch with the company through our phone numbers 
       
  
  
-<p ><a class="button white" href="aboutus">More information</a></p>
+<p ><a class="button white" href="frozenproducts">More information</a></p>
 
                 </div>
             </div>
