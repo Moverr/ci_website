@@ -267,20 +267,13 @@ Interested parties must get in touch with the company through our phone numbers 
             <div class='hpa-content'>
                 <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
                 <div class="hpa-text-content">
-                    <h4 class="misto-title">Transportation and Logistics</h4>
+                    <h4 class="misto-title">Other Areas we deal in </h4>
 
 <hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">5,321,639</p>
+ 
 
-			<p class="blue-little-text">kilometres Of coverage</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align:justify">Mobility and energy is essential to the growth of each and every economic sector in Angola. Therefore, transportation and logistics plays a vital role in its development. Cochan invests in TransFuel, a market leader in the transportation of fuel and lubricants throughout the country.</p>
+<p style="font-size: 14px; text-align:justify"> WE ALSO TRADE IN SUGAR, RICE, SOYBEANS, EDIBLE OIL, CORN, PASTA, DAIRY ETC
+</p>
 
 <div class="marcas_container"><a href="/en/business-areas/transport-and-logistics"><img alt="" class="marca" src="./imgs/trasnfuel.png" /></a></div>
 
