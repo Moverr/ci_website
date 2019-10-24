@@ -19,7 +19,7 @@
     <meta property="og:title" content="Homepage" />
     <meta property="og:url" content="./en" />
     <meta property="og:description" content="&quot;We believe that investments should be a driver of change,	both within the economy and in society.	There is no reason to have modest ambitions.”Leopoldino Fragoso do Nascimento	Chairman" />
-    <meta property="og:image" content="../imgs//58ef705540099.jpg" />
+    <meta property="og:image" content="../imgs/58ef705540099.jpg" />
 
     
     <meta name="twitter:card" content="summary" />
@@ -214,7 +214,7 @@ Interested parties must get in touch with the company through our phone numbers 
 
  <div class='hparea'>
             <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
+                <div class="overlay background" style="background-image:url('./imgs/coppergold.jpg')"></div>
                 <div class="overlay one"></div>
                 <div class="hpa-image-content">
                     <h3 class="hpa-title">COPPER, COBALT DIAMONDS AND GOLD <br/> PRODUCTS</h3>
@@ -253,10 +253,10 @@ Interested parties must get in touch with the company through our phone numbers 
 
             <div class='hparea'>
             <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-trans.jpg')"></div>
+                <div class="overlay background" style="background-image:url('./imgs/otherproducts.jpg')"></div>
                 <div class="overlay one"></div>
                 <div class="hpa-image-content">
-                    <h3 class="hpa-title">Other Areas  <br><span></span></h3>
+                    <h3 class="hpa-title">Other Products  <br><span></span></h3>
                     <h3 class="hpa-title hover">Sugar, Rice,Edible Oil, Corn, Pasta, Etc.  <span></span></h3>
                     <hr class="hpa-hr">
                    
