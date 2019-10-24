@@ -170,7 +170,7 @@ Interested parties must get in touch with the company through our phone numbers 
                 <div class='page  full '>
                     <a name="topo"></a>
                     <section class='homepage-areas'>
- <!-- COPPER -->
+ <!-- FROZEN PRODUCTS -->
             <div class='hparea'>
             <div class='hpa-image'>
                 <div class="overlay background" style="background-image:url('./imgs/frozenchicken.jpg')"></div>
@@ -203,7 +203,7 @@ Interested parties must get in touch with the company through our phone numbers 
             </div>
         </div>
 
-        <!--  END COPPER -->
+        <!--  END FROZEN PRODUCTS  -->
         <!-- COBALT -->
 
 
