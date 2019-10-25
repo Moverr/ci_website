@@ -126,18 +126,19 @@
 
         <div class='wrapper '>
 
-                            <section class='banner  banner-bg'>
+            
+                           
+        
+                    
+        
+        <div class="">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.5211933844307!2d55.26213931500933!3d25.18564028390152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDExJzA4LjMiTiA1NcKwMTUnNTEuNiJF!5e0!3m2!1sen!2sug!4v1571986904362!5m2!1sen!2sug" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        
 
-        
-                    <div class="overlay three"></div>
-        
-        <div class="content">
-                        <h1 class="banner-title  ">
-               CONTACT US 
-            </h1>
+                       
                                 </div>
 
-            </section>
+         
             
             <div class='page_standard '>
                                 <div class='leftmenu_container'>
@@ -158,11 +159,9 @@
                 <h1>Contact Us</h1>
 
                 <p style="text-align:justify;">
-                Executive International Trading LLC, is a commodities trading company based in Dubai - UAE. Executive International Trading benefits from its owners experience of more than 30 years, operating in diverse regions such as: Africa, Asia, Europe, Latin America and Middle East. 
-
-                The company benefits from long lasting and mutual beneficial relationships from agro producers and mining companies and deals with most of the products in the hard and soft commodities spectrum.
-
-                With its strategic location in Dubai, Executive International Trading aims on becoming one of the main trading houses, bridging suppliers and buyers in any corner of the world, ensuring the highest quality and efficiency for all goods traded by us.
+              Location:  OBEROI TOWER/OFF 1801 Business bay<br/>
+              Email: <br/>
+              Phone Contact : <br/>
 
                 </p>
                     <a name="topo"></a>
