@@ -54,6 +54,8 @@ $route['login'] = 'login/loginform';
 
 $route['default_controller'] = 'home';
 $route['aboutus'] = 'aboutus';
+$route['whatwedo'] = 'whatwedo';
+
 
 
 $route['404_override'] = '';
