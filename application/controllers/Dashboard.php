@@ -31,7 +31,12 @@ class Dashboard extends CI_Controller {
 	}
 
 	public function showpage(){
-		$url = $this->uri->segment(3);
+		$page = $url = $this->uri->segment(3);
+		 
+			echo $page;	
+			 
+	
+
 	}
 	public function editpage(){
 
