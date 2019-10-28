@@ -10,7 +10,10 @@ class Aboutus extends CI_Controller {
     
     
 	 public function edit(){
-		 
+		$categoryid = $this->input->post('category');
+		$topic = $this->input->post('topic');
+		$details = $this->input->post('details');
+		
 	 }
     
 }
