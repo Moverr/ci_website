@@ -26,11 +26,12 @@ class Dashboard extends CI_Controller {
 	 
 
 	public function loginform(){
+	
 		$this->load->view('admin/login');
 	}
 
 	public function showpage(){
-
+		$url = $this->uri->segment(3);
 	}
 	public function editpage(){
 
