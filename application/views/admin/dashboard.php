@@ -40,7 +40,7 @@
       <!-- Nav Item - Dashboard -->
      
       <li class="nav-item">
-        <a class="nav-link" href="#"> 
+        <a class="nav-link" href="dashboard/manage/home"> 
           Manage Home   
           </a>
       </li>

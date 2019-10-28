@@ -57,6 +57,8 @@ $route['aboutus'] = 'aboutus';
 $route['whatwedo'] = 'whatwedo';
 $route['contactus'] = 'contactus';
 
+$route['dashboard/manage/(:any)'] = 'dashboard/showpage';
+
 
 
 

@@ -23,6 +23,8 @@ class Dashboard extends CI_Controller {
         $this->load->view('admin/dashboard');
 	}
 
+	 
+
 	public function loginform(){
 		$this->load->view('admin/login');
 	}
