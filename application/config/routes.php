@@ -59,6 +59,6 @@ $route['aboutus'] = 'aboutus';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
-//admin section
+ 
 
 
