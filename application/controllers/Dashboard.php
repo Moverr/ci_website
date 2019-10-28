@@ -27,4 +27,12 @@ class Dashboard extends CI_Controller {
 		$this->load->view('admin/login');
 	}
 
+	public function showpage(){
+
+	}
+	public function editpage(){
+
+	}
+
+
 }
