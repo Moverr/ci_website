@@ -9,6 +9,8 @@ class Aboutus extends CI_Controller {
     }
     
     
-	 
+	 public function edit(){
+		 
+	 }
     
 }
