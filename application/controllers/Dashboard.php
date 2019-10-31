@@ -20,9 +20,14 @@ class Dashboard extends CI_Controller {
 	 */
 	public function index()
 	{
-        $this->load->view('admin/dashboard');
+		// $this->load->view('admin/dashboard');
+		$this->showpage();
 	}
 
+
+	public function showdashboard(){
+		$this->load->view('admin/dashboard');
+	}
 	 
 
 	public function loginform(){
@@ -31,12 +36,9 @@ class Dashboard extends CI_Controller {
 	}
 
 	public function showpage(){
-		$page = $url = $this->uri->segment(3);
-		 
-			echo $page;	
-			 
-	
-
+		// $page = $url = $this->uri->segment(3);
+		$this->load->view('admin/dashboard');
+		   
 	}
 	public function editpage(){
 
