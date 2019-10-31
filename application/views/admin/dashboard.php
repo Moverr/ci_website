@@ -40,19 +40,19 @@
       <!-- Nav Item - Dashboard -->
      
       <li class="nav-item">
-        <a class="nav-link" href="dashboard/manage/home"> 
+        <a class="nav-link" href="dashboard?page=home"> 
           Manage Home   
           </a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="#"> 
+      <a class="nav-link" href="dashboard?page=aboutus"> 
           Manage About us   
           </a> 
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="#"> 
+      <a class="nav-link" href="dashboard?page=whatwedo"> 
           Manage What we do    
           </a>
       </li>

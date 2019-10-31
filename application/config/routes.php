@@ -56,9 +56,8 @@ $route['default_controller'] = 'home';
 $route['aboutus'] = 'aboutus';
 $route['whatwedo'] = 'whatwedo';
 $route['contactus'] = 'contactus';
-
-$route['dashboard/manage/(:any)'] = 'dashboard/showpage';
-$route['dashboard/home'] = 'dashboard/showpage';
+ 
+$route['dashboard'] = 'dashboard';
 
 
 

@@ -26,6 +26,10 @@ class Dashboard extends CI_Controller {
 
 
 	public function showdashboard(){
+		if($this->uri->segment(3) != null){
+
+		}
+
 		$this->load->view('admin/dashboard');
 	}
 	 
