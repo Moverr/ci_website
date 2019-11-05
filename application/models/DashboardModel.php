@@ -24,10 +24,10 @@ class DashboardModel extends CI_Model
 		 $isAdded = false;
 		 $required = array('page', 'title', 'body');
 		 
-		$this->_query_reader->add_data('add_contact_data', array('contact_type'=>'email', 'carrier_id'=>'', 'topic'=>$details['title'], 'body'=>$details['body'], 'page'=>$details['page']));
+		$this->_query_reader->add_data('insert_new_update_page', array('title'=>$details['title'], 'body'=>$details['body'], 'page'=>$details['page']));
 			
 
-		 return array('boolean'=>$isAdded, 'msg'=>$msg);
+		 return array('boolean'=>$isAdded, 'msg'=>"saved");
 
 	 }
 	 

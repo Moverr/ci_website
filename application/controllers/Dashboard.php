@@ -61,12 +61,11 @@ class Dashboard extends CI_Controller {
 	}
 	public function save(){
 
-		// var_dump($_POST);
+	 
+		 
 		$this->load->model('DashboardModel');
-		$this->DashboardModel->save($_POST);  
-
-		exit();
-		// $this->showpage($_POST['page']);
+		$this->DashboardModel->save($_POST);   
+		$this->showpage($_POST['page']);
 	}
 
 	public function editpage(){
