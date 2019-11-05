@@ -101,7 +101,7 @@
        <?php 
         
         if(isset($data['page'])){
-          $this->load->view('admin/overview');
+          $this->load->view('admin/pages',$data);
                 
         }else{
           $this->load->view('admin/overview');
