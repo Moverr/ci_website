@@ -99,6 +99,9 @@
 
         <!-- Begin Page Content -->
        <?php 
+       
+       var_dump($data['page']);
+
             $this->load->view('admin/overview');
        ?>
         <!-- /.container-fluid -->
