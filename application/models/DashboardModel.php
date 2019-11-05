@@ -22,7 +22,7 @@ class DashboardModel extends CI_Model
 	 {
 		 #print_r($schoolDetails); exit();
 		 $isAdded = false;
-		 $required = array('schoolname', 'schooltype__schooltypes', 'dateschoolregistered', 'schooltelephone', 'schooladdress__addressline');
+		 $required = array('page', 'title', 'body';
 		 
 		 # 1. Add all provided data into the session
 		 $passed = process_fields($this, $schoolDetails, $required, array("-"));
