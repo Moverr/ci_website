@@ -42,7 +42,7 @@
       <li class="nav-item">
         <a class="nav-link" href="dashboard?page=home"> 
           Manage Home   
-          </a>
+          </a>  
       </li>
 
       <li class="nav-item">

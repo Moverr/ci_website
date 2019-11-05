@@ -26,6 +26,9 @@ class Dashboard extends CI_Controller {
 
 
 	public function showdashboard(){
+
+		
+
 		if($this->uri->segment(3) != null){
 
 		}
@@ -40,7 +43,13 @@ class Dashboard extends CI_Controller {
 	}
 
 	public function showpage(){
-		// $page = $url = $this->uri->segment(3);
+		 
+
+	 $url = 	$this->uri();
+		
+		echo $url;
+		exit();
+
 		$this->load->view('admin/dashboard');
 		   
 	}
