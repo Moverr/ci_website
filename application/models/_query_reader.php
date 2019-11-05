@@ -1,14 +1,7 @@
 <?php
 include QUERY_FILE;
 
-/**
- * This class generates and runs queries and then returns the result in the desired format. 
- *
- * @author Al Zziwa <azziwa@gmail.com>
- * @version 1.1.0
- * @copyright TMIS
- * @created 01/08/2015
- */
+ 
 class _query_reader extends CI_Model
 {
 	#a variable to hold the cached queries to prevent pulling from the DB for each request
