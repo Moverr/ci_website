@@ -159,12 +159,12 @@
                 <br/>
                  
                 
-                <h1>Contact Us</h1>
+                <h1> <?=$data['list']['title']; ?></h1>
 
                 <p style="text-align:justify;">
-              Location:  OBEROI TOWER/OFF 1801 Business bay<br/>
-              Email: <br/>
-              Phone Contact : <br/>
+                <?=$data['list']['body']; ?>
+
+             
 
                 </p>
                     <a name="topo"></a>
