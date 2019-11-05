@@ -31,15 +31,23 @@ class Dashboard extends CI_Controller {
 	}
 
 
-	public function home(){
-
-		
-		$this->showpage();
-		
-
+	public function home(){ 		
+		$this->showpage(); 
 		 
 	}
-	 
+
+	public function aboutus(){ 		
+		$this->showpage(); 
+		 
+	}
+	
+	public function whatwedo(){ 		
+		$this->showpage(); 
+		 
+	}
+	
+	
+	
 
 	public function loginform(){
 	
