@@ -55,12 +55,17 @@ class Dashboard extends CI_Controller {
 		$data['list'] = $this->DashboardModel->getPage($page);  
 		$data['page'] = $page;
 
-	 
-
-  
+	  
 		$this->load->view('admin/dashboard',['data'=>$data]);
 		   
 	}
+	public function save(){
+
+		// var_dump($_POST);
+
+		$this->showpage($_POST['page']);
+	}
+
 	public function editpage(){
 
 	}

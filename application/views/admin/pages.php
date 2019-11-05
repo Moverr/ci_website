@@ -28,15 +28,15 @@ if(isset($data['page'])){
 					<label for="titleinput">
 						Title
 					</label>
-					<input type="text"  value="<?=$data['list']['title']; ?>" class="form-control" id="titleinput" />
-					<input type="text"  value="<?=$data['page']; ?>" class="form-control" id="titleinput" />
+					<input type="text"  name="title" value="<?=$data['list']['title']; ?>" class="form-control" id="titleinput" />
+					<input type="hidden"  name="page"   value="<?=$data['page']; ?>" class="form-control" id="titleinput" />
 				</div>
 				<div class="form-group">
 					 
 					<label for="exampleInputPassword1">
 						Details : 
 					</label>
-					 <textarea  class="form-control"  rows="50" name="content" id="editor" ><?=$data['list']['body']; ?></textarea>
+					 <textarea   name="body"     class="form-control"  rows="50" name="content" id="editor" ><?=$data['list']['body']; ?></textarea>
 				</div>
 			  
 				<button type="submit" class="btn btn-primary">
