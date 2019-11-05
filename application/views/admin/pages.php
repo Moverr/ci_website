@@ -1,4 +1,11 @@
 <section>
+
+<script type="text/javascript" src="<?php echo base_url();?>ckeditor/ckeditor.js"></script>
+   
+
+<script src="https://cdn.ckeditor.com/ckeditor5/15.0.0/classic/ckeditor.js"></script>
+
+
 <?php
 
 if(isset($data['page'])){
@@ -24,7 +31,7 @@ if(isset($data['page'])){
 					<label for="exampleInputPassword1">
 						Details : 
 					</label>
-					 <textarea  class="form-control"  rows="10">
+					 <textarea  class="form-control"  rows="10" name="content" id="editor" >
                      </textarea>
 				</div>
 			  
@@ -45,4 +52,10 @@ if(isset($data['page'])){
 
 </section>
 
-
+<script>
+    ClassicEditor
+        .create( document.querySelector( '#editor' ) )
+        .catch( error => {
+            console.error( error );
+        } );
+</script>
