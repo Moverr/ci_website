@@ -20,6 +20,11 @@ class Dashboard extends CI_Controller {
 	 */
 	public function index()
 	{
+	 
+	}
+
+	public function login(){ 		
+		$this->showpage(''); 
 		 
 	}
 
@@ -38,6 +43,12 @@ class Dashboard extends CI_Controller {
 		$this->showpage('whatwedo'); 
 		 
 	}
+
+	public function contactus(){ 		
+		$this->showpage('contactus'); 
+		 
+	}
+
 	
 	
 	
@@ -53,16 +64,17 @@ class Dashboard extends CI_Controller {
 		$this->load->model('DashboardModel');
 
 		$data['list'] = $this->DashboardModel->getPage($page);  
-		$data['page'] = $page;
+		if(strlen($page) > 0 ){
+			$data['page'] = $page;
 
+		}
+		
 	  
 		$this->load->view('admin/dashboard',['data'=>$data]);
 		   
 	}
 	public function save(){
-
-	 
-		 
+ 
 		$this->load->model('DashboardModel');
 		$this->DashboardModel->save($_POST);   
 		$this->showpage($_POST['page']);
