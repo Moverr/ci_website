@@ -18,24 +18,16 @@ class DashboardModel extends CI_Model
 	 }
 	 
 	  
-	 function save($schoolDetails)
+	 function save($details)
 	 {
 		 #print_r($schoolDetails); exit();
 		 $isAdded = false;
-		 $required = array('page', 'title', 'body';
+		 $required = array('page', 'title', 'body');
 		 
-		 # 1. Add all provided data into the session
-		 $passed = process_fields($this, $schoolDetails, $required, array("-"));
-		 $msg = !empty($passed['msg'])? $passed['msg']: "";
-		 # 2. Save the data into the database
-		 if($passed['boolean'])
-		 {
-		
-			$emailContactId = $this->_query_reader->add_data('add_contact_data', array('contact_type'=>'email', 'carrier_id'=>'', 'details'=>$details['schoolemailaddress'], 'parent_id'=>$schoolId, 'parent_type'=>'school'));
+		$this->_query_reader->add_data('add_contact_data', array('contact_type'=>'email', 'carrier_id'=>'', 'topic'=>$details['title'], 'body'=>$details['body'], 'page'=>$details['page']));
 			
-		 }
-		 
-		 return array('boolean'=>$isAdded, 'msg'=>$msg));
+
+		 return array('boolean'=>$isAdded, 'msg'=>$msg);
 
 	 }
 	 
