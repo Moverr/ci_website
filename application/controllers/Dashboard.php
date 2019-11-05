@@ -55,8 +55,8 @@ class Dashboard extends CI_Controller {
 		$data['list'] = $this->DashboardModel->getPage($page);  
 		$data['page'] = $page;
 
-		var_dump($data);
-		
+	 
+
   
 		$this->load->view('admin/dashboard',['data'=>$data]);
 		   

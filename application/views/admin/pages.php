@@ -9,6 +9,8 @@
 <?php
 
 if(isset($data['page'])){
+
+	// var_dump($data['list']);
     ?>
  
     
@@ -24,15 +26,15 @@ if(isset($data['page'])){
 					<label for="titleinput">
 						Title
 					</label>
-					<input type="text" class="form-control" id="titleinput" />
+					<input type="text"  value="<?=$data['list']['title']; ?>" class="form-control" id="titleinput" />
+					<input type="text"  value="<?=$data['page']; ?>" class="form-control" id="titleinput" />
 				</div>
 				<div class="form-group">
 					 
 					<label for="exampleInputPassword1">
 						Details : 
 					</label>
-					 <textarea  class="form-control"  rows="10" name="content" id="editor" >
-                     </textarea>
+					 <textarea  class="form-control"  rows="50" name="content" id="editor" ><?=$data['list']['body']; ?></textarea>
 				</div>
 			  
 				<button type="submit" class="btn btn-primary">
