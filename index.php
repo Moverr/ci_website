@@ -36,6 +36,8 @@
  * @filesource
  */
 
+include_once("config.php");
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT

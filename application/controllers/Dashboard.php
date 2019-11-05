@@ -50,6 +50,12 @@ class Dashboard extends CI_Controller {
 	public function showpage($page){
 		
 
+		$this->load->model('DashboardModel');
+
+		$data['list'] = $this->DashboardModel->get_list(array('action'=>'public'));
+		$this->load->view('home', $data);
+
+
 		$data = array();
 		$data['page'] = $page;
   
