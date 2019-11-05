@@ -5,7 +5,12 @@ class Whatwedo extends CI_Controller {
  
 	public function index()
 	{
-		$this->load->view('public/whatwedo');
+		$page = "whatwedo";
+		$this->load->model('DashboardModel');
+		$data['list'] = $this->DashboardModel->getPage($page);  		
+		$this->load->view('public/whatwedo',["data"=>$data]);
+
+		 
     }
     
     

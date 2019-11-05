@@ -153,15 +153,10 @@
                 </div>
                 
                 <div class='page ' style="text-align:">
-                <h1>About Us</h1>
+                <h1> <?=$data['list']['title']; ?></h1>
 
                 <p style="text-align:justify;">
-                Executive International Trading LLC, is a commodities trading company based in Dubai - UAE. Executive International Trading benefits from its owners experience of more than 30 years, operating in diverse regions such as: Africa, Asia, Europe, Latin America and Middle East. 
-
-                The company benefits from long lasting and mutual beneficial relationships from agro producers and mining companies and deals with most of the products in the hard and soft commodities spectrum.
-
-                With its strategic location in Dubai, Executive International Trading aims on becoming one of the main trading houses, bridging suppliers and buyers in any corner of the world, ensuring the highest quality and efficiency for all goods traded by us.
-
+                <?=$data['list']['body']; ?>
                 </p>
                     <a name="topo"></a>
                         <section class=" mobile-padding">

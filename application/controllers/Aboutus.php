@@ -6,15 +6,13 @@ class Aboutus extends CI_Controller {
 	public function index()
 	{
 		
-		$this->load->view('public/aboutus');
+		$page = "aboutus";
+		$this->load->model('DashboardModel');
+		$data['list'] = $this->DashboardModel->getPage($page);  		
+		$this->load->view('public/aboutus',["data"=>$data]); 
     }
     
     
-	 public function edit(){
-		$categoryid = $this->input->post('category');
-		$topic = $this->input->post('topic');
-		$details = $this->input->post('details');
-		
-	 }
+ 
     
 }
