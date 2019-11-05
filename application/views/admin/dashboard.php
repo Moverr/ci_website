@@ -99,10 +99,16 @@
 
         <!-- Begin Page Content -->
        <?php 
-       
-       var_dump($data['page']);
+        
+        if(isset($data['page'])){
+          $this->load->view('admin/overview');
+                
+        }else{
+          $this->load->view('admin/overview');
+                
+        }
 
-            $this->load->view('admin/overview');
+                
        ?>
         <!-- /.container-fluid -->
 
