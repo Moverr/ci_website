@@ -45,11 +45,7 @@ class Dashboard extends CI_Controller {
 	public function showpage(){
 		 
 
-	 $url = 	$this->uri();
-		
-		echo $url;
-		exit();
-
+  
 		$this->load->view('admin/dashboard');
 		   
 	}
