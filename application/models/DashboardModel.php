@@ -15,7 +15,11 @@ class DashboardModel extends CI_Model
 	function getPage($page)
 	{ 
 		return $this->_query_reader->get_row_as_array('get_page_by_name', array('page'=>$page )); 
- 	}
+	 }
+	 
+	 function savePage($details){
+		 
+	 }
 
 	
 	
