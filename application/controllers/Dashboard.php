@@ -20,29 +20,22 @@ class Dashboard extends CI_Controller {
 	 */
 	public function index()
 	{
-		// $this->load->view('admin/dashboard');
-		// $product_id =  $uri_data= $this->uri->segment_array();
-		// var_dump($product_id);
-
-
 		 
-					
-		// $this->showpage();
 	}
 
 
 	public function home(){ 		
-		$this->showpage(); 
+		$this->showpage('home'); 
 		 
 	}
 
 	public function aboutus(){ 		
-		$this->showpage(); 
+		$this->showpage('aboutus'); 
 		 
 	}
 	
 	public function whatwedo(){ 		
-		$this->showpage(); 
+		$this->showpage('whatwedo'); 
 		 
 	}
 	
@@ -54,11 +47,11 @@ class Dashboard extends CI_Controller {
 		$this->load->view('admin/login');
 	}
 
-	public function showpage(){
+	public function showpage($page){
 		
 
 		$data = array();
-		$data['page'] = 'page';
+		$data['page'] = $page;
   
 		$this->load->view('admin/dashboard',$data);
 		   
