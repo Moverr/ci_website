@@ -57,8 +57,10 @@ class Dashboard extends CI_Controller {
 	public function showpage(){
 		
 
+		$data = array();
+		$data['page'] = 'page';
   
-		$this->load->view('admin/dashboard');
+		$this->load->view('admin/dashboard',$data);
 		   
 	}
 	public function editpage(){
