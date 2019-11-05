@@ -13,6 +13,8 @@ if(isset($data['page'])){
 	// var_dump($data['list']);
     ?>
  
+ <form action="save" method="post">
+
     
    
     <div class="container-fluid">
@@ -46,7 +48,8 @@ if(isset($data['page'])){
 	 
 </div>
 
-    
+</form>
+
 
     <?php  
     } 
